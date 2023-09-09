@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "title": "El Molino",
+      "description": "El Molino - Este proyecto esta hecho en conjunto con el equipo del Grupó 15 FT-38a de soyHenry. Se trata de una innovadora página web para un restaurante que busca minimizar, o incluso eliminar, el contacto entre el cliente y los mozos a través de una automatización completa del proceso de entrega.",
+      "imageUrl": "/public/images/project1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Proyecto Individual Formula 1",
+      "description": "Un proyecto que reliza la busqueda y creacion de pilotos de F1, con una Api y una base de datos, el cual incluye filtros como: origen, fecha de nacimiento, o incluso buscar por nombre.",
+      "imageUrl": "/public/images/project2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Portafolio",
+      "description": "Portafolio Digital, donde se da mas a conocer sobre mi y mis proyectos.",
+      "imageUrl": "/public/images/project3.jpg"
+    }
+  ]
